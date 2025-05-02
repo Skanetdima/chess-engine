@@ -43,3 +43,6 @@ This project is created out of personal interest in chess engines, UI developmen
 6. **Click "Start"**
 
    - The HUD will begin analyzing positions live, updating after each move.
+
+
+**NOTE: thank you for javascript version of stockfish [https://github.com/lichess-org/stockfish.js](https://github.com/lichess-org/stockfish.js)** 
